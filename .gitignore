@@ -1,0 +1,10 @@
+# Compiled binaries
+*.o
+vpn_client
+vpn_client_gui
+vpn_server
+
+# Editor / OS
+*.exe
+*.log
+.DS_Store
