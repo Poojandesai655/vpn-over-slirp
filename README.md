@@ -1,22 +1,3 @@
-Got it 👍
-
-You want \*\*the exact content you pasted\*\*, but \*\*reformatted to match the short, clean GitHub style shown in SS1\*\* (compact headings + bullets), \*\*not rewritten\*\*, \*\*not inflated\*\*.
-
-
-
-Below is your \*\*README.md in SS1 format\*\*, derived strictly from what you pasted.
-
-
-
-You can \*\*copy-paste this directly\*\*.
-
-
-
----
-
-
-
-```markdown
 
 \# VPN over SLiRP – User-Space Virtual Private Network
 
